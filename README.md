@@ -42,7 +42,7 @@ The exploits, vulnerabilities, and issues we most care about are:
 
 The value of the rewards depends on Severity, which is calculated based on Impact and Likelihood as followed by the [OWASP Risk Rating Methodology](https://www.owasp.org/index.php/OWASP_Risk_Rating_Methodology). 
 
-![Alt text](https://github.com/WorldOfEther/crystal-bug-bounty/blob/master/Bug%20Bounty%20Graph.png)
+![Alt text](https://github.com/WorldOfEther/crystal-bug-bounty/blob/master/Bug%20Bounty%20Graph%20.png)
 
 **Note: Rewards are ultimately up to the discretion of the WoE team.** 
 
