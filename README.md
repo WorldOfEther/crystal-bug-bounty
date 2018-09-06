@@ -40,6 +40,8 @@ The exploits, vulnerabilities, and issues we most care about are:
 - The World of Ether team will look at several variables in determining rewards. Eligibility, compensation, and everything having to do with rewards are ultimately up to the WoE team.
 - Having a safe and secure dApp improves the entire blockchain ecosystem. Spam and actions that are clearly not in good faith will not be tolerated. Please use your discretion to only act in ways that are reasonable!
 
+The value of the rewards depends on Severity, which is calculated based on Impact and Likelihood as followed by the [OWASP Risk Rating Methodology](https://www.owasp.org/index.php/OWASP_Risk_Rating_Methodology). 
+
 ![Alt text](https://github.com/WorldOfEther/crystal-bug-bounty/blob/master/Bug%20Bounty%20Graph.png)
 
 **Note: Rewards are ultimately up to the discretion of the WoE team.** 
