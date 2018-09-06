@@ -47,7 +47,7 @@ The exploits, vulnerabilities, and issues we most care about are:
 
 - The following bullets are for if we have a point system. 1 point equaled 1 USD:
 - Critical: up to 2000 points
-- High: up to 10000 points
+- High: up to 1000 points
 - Medium: up to 500 points
 - Low: up to 250 points
 - Note: up to 100 points
