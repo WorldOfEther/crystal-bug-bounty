@@ -43,7 +43,7 @@ Because Crystals are ERC20 you can either transfer to another Ethereum address, 
 # Additional Information
 
 
-The `WoeCrystalInventory` & `WoeDatabse` contracts are not deployed on rinkeby for this beta testing. This means that the redeemCrystal() function should not be able to be triggered on rinkeby.
+The `WoeCrystalInventory` & `WoeDatabase` contracts are not deployed on rinkeby for this beta testing. This means that the redeemCrystal() function should not be able to be triggered on rinkeby.
 
 However, there is a `TestableWoeDatabase.sol` used to mimic its functionality for truffle testing. Additionally, there is a `TestableRandom.sol` contract used to mimic predictable test scenarios for truffle testing.
 
