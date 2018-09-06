@@ -1,4 +1,4 @@
-![Alt text](https://github.com/WorldOfEther/crystal-bug-bounty/blob/master/Bug%20Bounty.png)
+![World of Ether Bug Bounty](https://github.com/WorldOfEther/crystal-bug-bounty/blob/master/Bug%20Bounty.png)
 
 # The World of Ether Crystal Bug Bounty Program
 
@@ -6,29 +6,29 @@ The World of Ether Bug Bounty
 
 The 1st World of Ether Bug Bounty is **officially open**, with a reward pool of **$20,000!**
 
-It’s of the utmost importance to us that these particular crystal contracts are secure and players kept safe. With the launch of World of Ether nearing, we invite the blockchain community to help with this.
+It’s of the utmost importance to us that these particular Crystal contracts are secure and players kept safe. With the launch of World of Ether nearing, we invite the blockchain community to help with this.
 
 If you’re a developer who’d like to take part, here’s what you need to know:
 
 ## World of Ether Crystal
 
 - Crystal contracts are `ERC-20` tokens with limited added functionality. They only allow minting from 2 designated proxy contracts, one of which is a sales contract.
-- The CrystalSale contract allows for the purchasing or a randomly generated crystal.
-- Each of the 5 crystals has 1 ‘use’ function that initiates logic in proxy contract after tokens are transferred to it.
+- The CrystalSale contract allows for the purchasing or a randomly generated Crystal.
+- Each of the 5 Crystals has 1 ‘use’ function that initiates logic in proxy contract after tokens are transferred to it.
 - Crystals are `ERC20` tokens and, as such, can be sold and traded on 3rd party platforms and exchanges.
 
 **For a list of basic operations, please see [here](./WorldOfEther-Crystal-Basics.md).** 
 
 ## Scope
 
-The bounty program is running on the Rinkeby Test Network and will be open until TIME EST + DATE.
+The bounty program is running on the Rinkeby Test Network and will be open until 9/11/18 5 PM EST.
 
 All code necessary for this bounty is publically available within this repo.
 
 The exploits, vulnerabilities, and issues we most care about are:
 
 - Stealing a Crystal.
-- Manipulating the use or purchase of a crystal.
+- Manipulating the use or purchase of a Crystal.
 - Anything that ‘breaks’ the contracts.
 - Any sort of malfunction.
 
@@ -42,7 +42,7 @@ The exploits, vulnerabilities, and issues we most care about are:
 
 The value of the rewards depends on Severity, which is calculated based on Impact and Likelihood as followed by the [OWASP Risk Rating Methodology](https://www.owasp.org/index.php/OWASP_Risk_Rating_Methodology). 
 
-![Alt text](https://github.com/WorldOfEther/crystal-bug-bounty/blob/master/Bug%20Bounty%20Graph.png)
+![World of Ether Bug Bounty Severity and Likelihood OWASP Chart](https://github.com/WorldOfEther/crystal-bug-bounty/blob/master/Bug%20Bounty%20Graph.png)
 
 **Note: Rewards are ultimately up to the discretion of the WoE team.** 
 
@@ -55,8 +55,8 @@ The value of the rewards depends on Severity, which is calculated based on Impac
 
 **Examples of** [Impact]:
 
-- High: Steal a crystal from someone, steal/redirect ETH or crystals to another address, block actions for all users or some non-trivial fraction of users, create a crystal without purchase.
-- Medium: Break random rules, lock a crystal owned by an address you don't control, manipulate crystal price.
+- High: Steal a Crystal from someone, steal/redirect ETH or Crystals to another address, block actions for all users or some non-trivial fraction of users, create a Crystal without purchase.
+- Medium: Break random rules, lock a Crystal owned by an address you don't control, manipulate Crystal price.
 - Low: cancel or block another user's auction.
 
 **How to Get a High Score:**
@@ -114,7 +114,7 @@ All rewards are subject to applicable law and thus applicable taxes. Don't targe
 
 Copyright (c) 2018 World of Ether LLC
 
-![Alt text](https://github.com/WorldOfEther/crystal-bug-bounty/blob/master/Bug%20Bounty%20inside.png)
+![World of Ether Bug Bounty](https://github.com/WorldOfEther/crystal-bug-bounty/blob/master/Bug%20Bounty%20inside.png)
 
 
 
