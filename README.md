@@ -1,3 +1,5 @@
+![Alt text](https://github.com/WorldOfEther/crystal-bug-bounty/blob/master/Bug%20Bounty.png)
+
 # The World of Ether Bug Bounty Program
 
 The World of Ether Bug Bounty 
@@ -111,6 +113,7 @@ All rewards are subject to applicable law and thus applicable taxes. Don't targe
 
 Copyright (c) 2018 World of Ether LLC
 
+![Alt text](https://github.com/WorldOfEther/crystal-bug-bounty/blob/master/Bug%20Bounty%20inside.png)
 
 
 
