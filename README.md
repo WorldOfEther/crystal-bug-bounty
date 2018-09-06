@@ -40,10 +40,9 @@ The exploits, vulnerabilities, and issues we most care about are:
 - The World of Ether team will look at several variables in determining rewards. Eligibility, compensation, and everything having to do with rewards are ultimately up to the WoE team.
 - Having a safe and secure dApp improves the entire blockchain ecosystem. Spam and actions that are clearly not in good faith will not be tolerated. Please use your discretion to only act in ways that are reasonable!
 
-[How our reward system works]
+![Alt text](https://github.com/WorldOfEther/crystal-bug-bounty/blob/master/Bug%20Bounty%20Graph.png)
 
-
-**Note: Rewards are ultimately up to the discretion of the WoE team.** [More about how the reward system works.]
+**Note: Rewards are ultimately up to the discretion of the WoE team.** 
 
 - The following bullets are for if we have a point system. 1 point equaled 1 USD:
 - Critical: up to 2000 points
@@ -54,9 +53,9 @@ The exploits, vulnerabilities, and issues we most care about are:
 
 **Examples of** [Impact]:
 
-- High:
-- Medium:
-- Low:
+- High: Steal a crystal from someone, steal/redirect ETH or crystals to another address, block actions for all users or some non-trivial fraction of users, create a crystal without purchase.
+- Medium: Break random rules, lock a crystal owned by an address you don't control, manipulate crystal price.
+- Low: cancel or block another user's auction.
 
 **How to Get a High Score:**
 
