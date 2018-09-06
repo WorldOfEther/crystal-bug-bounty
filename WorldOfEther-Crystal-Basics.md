@@ -2,19 +2,19 @@
 
 Crystal contracts are composed of 5 public facing ERC20 contracts, 1 Random number generator contract, and 1 Sale contract. Below we'll provide an overview on these contracts: 
 
-##### `WoeSunCrystal.sol` - ``
-##### `WoeOceanCrystal.sol` - ``
-##### `WoeLifeCrystal.sol` - ``
-##### `WoeDeathCrystal.sol` - ``
-##### `WoeAstralCrystal.sol` - ``
+##### `WoeSunCrystal.sol` - `0x0abe19a63066e09995f4c1690ca3c1eca6860c8a`
+##### `WoeOceanCrystal.sol` - `0xd6571eb2f202be631f92e47728c195380a8d8298`
+##### `WoeLifeCrystal.sol` - `0x87229904ab8185fc569bfd9238a1679a455c1b7d`
+##### `WoeDeathCrystal.sol` - `0x0a784dc442333390c85b3ee375a071fc4eb80d48`
+##### `WoeAstralCrystal.sol` - `0x587d6096724dffdc6cba081a5ba5e3cb06f068c2`
 
 These are the main contracts. Although there are 5 of these contracts, they are all children of WoeCrystal.sol with different parameters passed in for token name and symbol. In addition, each has a unique function for Crystal usage that call a proxy contract.
 
-##### `WoeRandom.sol` - ``
+##### `WoeRandom.sol` - `0x8b66b08be26858add451f30298b21ab2a6a29020`
 
 This contract is a RNG using a combination of information from the block. Additional information about this random can be found here: https://github.com/axiomzen/eth-random
 
-##### `WoeCrystalSale.sol` - ``
+##### `WoeCrystalSale.sol` - `0x6ad4e0d97c76b3807b19e9e37d753cbb248cddb0`
 
 A sale contract that generates a random Crystal (Sun, Ocean, Life, Death, Astral) upon purchase. Bulk purchases allowed and there are 2 prices for each set of purchases (pre-launch & post-launch prices). This contract also allows for a free 1 time redemption of a Crystal if the player has the proper values set on their account.
 
