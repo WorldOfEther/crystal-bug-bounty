@@ -93,7 +93,7 @@ Additionally, please take note that if we cannot recreate your bug, then a (Truf
   - Once the submission has been validated, rewards are paid in ETH. This will likely be a few days after validation. Please provide your ETH wallet address with your submission.
 
 - I reported a vulnerability but have not heard back.
-  - It’s our goal to respond in as timely a manner as possible. With this said, if the issue is urgent, you can reach us at: hello [at] worldofether.com.
+  - It’s our goal to respond in as timely a manner as possible. With this said, if the issue is urgent, you can reach us at: hello@worldofether.com.
 
 - Can I use the code in this repo anywhere I’d like.
   - No. The code in this repo is only for reviewing, not for copying.
