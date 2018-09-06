@@ -17,7 +17,7 @@ If you’re a developer who’d like to take part, here’s what you need to kno
 - Each of the 5 crystals has 1 ‘use’ function that initiates logic in proxy contract after tokens are transferred to it
 - Crystals are `ERC20` tokens and, as such, can be sold and traded on 3rd party platforms and exchanges.
 
-**For a list of basic operations, please see here.**
+**For a list of basic operations, please see [here](./WorldOfEther-Crystal-Basics.md).** 
 
 ## Scope
 
