@@ -21,7 +21,7 @@ If you’re a developer who’d like to take part, here’s what you need to kno
 
 ## Scope
 
-The bounty program is running on the Rinkeby Test Network and will be open until 9/11/18 5 PM EST.
+The bounty program is running on the Rinkeby Test Network and will be open until 9/11/18 11 PM EST.
 
 All code necessary for this bounty is publically available within this repo.
 
