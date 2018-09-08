@@ -114,7 +114,7 @@ contract WoeCrystalSale is Pausable, ReentrancyGuard {
         giveRandomCrystalBulk();
         giveRandomCrystalBulk();
 
-        CrystalPurchased(msg.sender, msg.value, 5);
+        CrystalPurchased(msg.sender, msg.value, 25);
     }
 
     function redeemCrystal() nonReentrant whenNotPaused external {
@@ -150,7 +150,6 @@ contract WoeCrystalSale is Pausable, ReentrancyGuard {
         } 
 
         randomCrystalsSold++;
-        CrystalPurchased(msg.sender, msg.value, 25);
     }
 
     function giveRandomCrystalBulk() internal {
