@@ -1,10 +1,10 @@
 ![World of Ether Bug Bounty](https://github.com/WorldOfEther/crystal-bug-bounty/blob/master/Bug%20Bounty.png)
 
-# The World of Ether Crystal Bug Bounty Program
+# The World of Ether Crystal Bug Bounty is NOW CLOSED
 
 The World of Ether Bug Bounty 
 
-The 1st World of Ether Bug Bounty is **officially open**, with a reward pool of **$20,000!**
+Huge thank you to everybody who participated!! We’ll be contacting participants with their rewards over the coming days
 
 It’s of the utmost importance to us that these particular Crystal contracts are secure and players kept safe. With the launch of World of Ether nearing, we invite the blockchain community to help with this.
 
