@@ -55,7 +55,7 @@ The value of the rewards depends on Severity, which is calculated based on Impac
 
 - High: Steal a Crystal from someone, steal/redirect ETH or Crystals to another address, block actions for all users or some non-trivial fraction of users, create a Crystal without purchase.
 - Medium: Break random rules, lock a Crystal owned by an address you don't control, manipulate Crystal price.
-- Low: cancel or block another user's auction.
+- Low: cancel or block another user's action.
 
 **How to Get a High Score:**
 
